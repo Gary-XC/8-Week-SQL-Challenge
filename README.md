@@ -1,2 +1,6 @@
-# 8-Week-SQL-Challenge
-My solutions to the 8 Week SQL Challenge by Data With Danny. This project includes SQL queries for 8 real-world case studies designed to improve data analysis, SQL skills, and problem-solving with realistic business scenarios
+# 8-Week SQL Challenge Solutions
+
+This repo contains my SQL-based solutions for the 8 case studies from the #8WeekSQLChallenge by Danny Ma. Each folder includes:
+- A description of the business problem and datasets
+- SQL setup scripts
+- Query files with answers to all challenge questions
